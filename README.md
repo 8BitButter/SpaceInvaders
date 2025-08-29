@@ -1,6 +1,4 @@
-Certainly! Here's a basic README file for the provided code:
 
----
 
 # Space Invaders Game
 
